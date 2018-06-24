@@ -1,0 +1,6 @@
+*.elc
+elpa/*
+private/*
+snippets/*
+recentf
+.custom.el
