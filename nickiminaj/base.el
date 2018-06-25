@@ -18,6 +18,7 @@
 (defconst private-dir  (expand-file-name "private" user-emacs-directory))
 (defconst temp-dir (format "%s/cache" private-dir) "Hostname-based elisp temp directories")
 
+(global-hl-line-mode 1)
 
 ;; Core settings
 ;; UTF-8 everywhere
