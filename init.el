@@ -9,5 +9,7 @@
 (require 'base-config)
 (require 'base-theme)
 (require 'base-extensions)
+(require 'base-functions)
+(require 'base-global-keys)
 
 (require 'lang-python)
