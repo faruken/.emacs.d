@@ -3,4 +3,5 @@ elpa/*
 private/*
 snippets/*
 recentf
+smex-items
 .custom.el
