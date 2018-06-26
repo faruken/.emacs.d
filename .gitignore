@@ -5,3 +5,4 @@ snippets/*
 recentf
 smex-items
 .custom.el
+*.dat
