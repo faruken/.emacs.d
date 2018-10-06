@@ -71,6 +71,13 @@
 (use-package smartparens)
 
 
+(use-package deft
+  :commands (deft)
+  :config
+  (setq deft-directory "~/.notes"
+  deft-extensions '("txt", md)))
+
+
 (use-package windmove
   :bind
   ("C-x <up>" . windmove-up)
