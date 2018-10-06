@@ -75,7 +75,7 @@
   :commands (deft)
   :config
   (setq deft-directory "~/.notes"
-  deft-extensions '("txt", md)))
+  deft-extensions '("txt", "md")))
 
 
 (use-package windmove
